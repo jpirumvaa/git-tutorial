@@ -1,5 +1,4 @@
 # Git & GitHub
 
 ## Member Names
-
-### Greenfield Obasi
+ft-add-gobasi
