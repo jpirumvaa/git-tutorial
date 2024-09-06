@@ -1,4 +1,6 @@
 # Git & GitHub
 
 ## Member Names
-WILSON EJULU
+ft-add-mandelaw-cmu-f24
+
+## MANDELA WILSON
